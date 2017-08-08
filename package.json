@@ -1,12 +1,10 @@
 {
   "name": "game-of-life",
-  "version": "0.0.0",
-  "description": "",
-  "homepage": "",
+  "version": "0.0.1",
+  "description": "test task for the trial day at outfittery",
   "author": {
     "name": "Sérgio Batista",
-    "email": "mail@se.rg.io",
-    "url": ""
+    "email": "mail@se.rg.io"
   },
   "files": [
     "lib"
@@ -23,7 +21,6 @@
     "jest-cli": "^20.0.0"
   },
   "scripts": {
-    "prepublish": "nsp check",
     "pretest": "eslint . --fix",
     "test": "jest"
   },
@@ -34,7 +31,7 @@
       "node": true
     }
   },
-  "repository": "batista/game-of-life",
+  "private": true,
   "jest": {
     "testEnvironment": "node"
   },
