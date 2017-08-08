@@ -13,6 +13,10 @@
   "keywords": [
     ""
   ],
+  "repository": {
+    "type" : "git",
+    "url" : "git@github.com:batista/game-of-life.git"
+  },
   "devDependencies": {
     "nsp": "^2.6.3",
     "eslint": "^4.1.0",
