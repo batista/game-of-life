@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Sérgio Batista",
+      "authorEmail": "mail@se.rg.io",
+      "authorUrl": ""
+    }
+  }
+}
