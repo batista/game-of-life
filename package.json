@@ -14,8 +14,8 @@
     ""
   ],
   "repository": {
-    "type" : "git",
-    "url" : "git@github.com:batista/game-of-life.git"
+    "type": "git",
+    "url": "git@github.com:batista/game-of-life.git"
   },
   "devDependencies": {
     "nsp": "^2.6.3",
@@ -39,5 +39,8 @@
   "jest": {
     "testEnvironment": "node"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
 }
