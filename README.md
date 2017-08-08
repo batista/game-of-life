@@ -1,5 +1,15 @@
-# game-of-life [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
->
+# Game of Life
+The *Game of Life*, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970.
+
+The "game" is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input.
+One interacts with the Game of Life by creating an initial configuration and observing how it evolves, or, for advanced "players", by creating patterns with particular properties.
+
+> source [wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+
+## Requirements:
+- [ ] Vanilla JavaScript, but you can use any task runner/tools of your choice to have a better separation of concerns
+- [ ] [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) (more about design not an optimizations)
+- [ ] additional points for tests
 
 ## Installation
 
@@ -9,19 +19,8 @@ $ npm install --save game-of-life
 
 ## Usage
 
-```js
-const gameOfLife = require('game-of-life');
+TODO
 
-gameOfLife('Rainbow');
-```
 ## License
 
 MIT © [Sérgio Batista]()
-
-
-[npm-image]: https://badge.fury.io/js/game-of-life.svg
-[npm-url]: https://npmjs.org/package/game-of-life
-[travis-image]: https://travis-ci.org/batista/game-of-life.svg?branch=master
-[travis-url]: https://travis-ci.org/batista/game-of-life
-[daviddm-image]: https://david-dm.org/batista/game-of-life.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/batista/game-of-life
